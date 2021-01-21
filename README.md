@@ -1,4 +1,4 @@
-# You work for the OilyGiant mining company. Your task is to find the best place for a new well.
+You work for the OilyGiant mining company. Your task is to find the best place for a new well.
 
 Steps to choose the location:
 Collect the oil well parameters in the selected region: oil quality and volume of reserves;
